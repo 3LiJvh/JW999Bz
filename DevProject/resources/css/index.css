@@ -1,0 +1,141 @@
+@import url("https://use.typekit.net/dwr8xpc.css");
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.left {
+  display: block;
+  margin-left: 50;
+  margin-right: auto;
+  width: 50%;
+}
+
+.right {
+  display: block;
+  margin-left: auto;
+  margin-right: 50;
+  width: 50%;
+}
+
+.ban1 {
+    max-width: 100%;
+    height: 100%;
+
+}
+
+.dropshadowboximg11 {
+    width:480px;
+    height:200px;
+    box-shadow: -5px 5px 5px
+#59b300;
+}
+
+.dropshadowboximg111 {
+    width:480px;
+    height:200px;
+    box-shadow: -5px 5px 5px
+#bc13fe;
+}
+
+.dropshadowboximg113 {
+    width:480px;
+    height:200px;
+    box-shadow: 5px 5px 5px
+#bc13fe;
+}
+
+.dropshadowboximg12 {
+    width:480px;
+    height:316px;
+    box-shadow: 0px 15px 20px
+#8cff1a;
+}
+
+.dropshadowboximg112 {
+    width:480px;
+    height:316px;
+    box-shadow: 10px 15px 20px;
+#bc13fe;
+}
+
+.dropshadowboximg13 {
+   width:480px;
+   height:200px;
+   box-shadow: 5px 5px 5px
+ #59b300;
+}
+
+.dropshadowboximg21 {
+       width:425px;
+       height:517px;
+       box-shadow: -5px 5px 5px
+   #bc13fe;
+}
+.dropshadowboximg2 {
+    width:950px;
+    height:1000px;
+    box-shadow: 5px 5px 5px
+  #59b300;
+}
+.dropshadowboximg23 {
+    width:425px;
+    height:517px;
+    box-shadow: 5px 5px 5px
+#bc13fe;
+}
+
+h1 {
+    font-family: bungee,sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    background-color: rgba(188, 19, 254, 0.5);
+    max-width:60%; max-height:100%;
+    margin-right:auto;margin-left:auto;
+}
+
+body {
+  background-image: url('https://i.imgur.com/ouiL5OK.png');
+  max-height:auto;max-width:auto;
+}
+h2{
+    font-family: flood-std, sans-serif;
+    font-weight: 400;
+    font-style: bold;
+    font-size: max-width:100%; max-height:100%;
+    background-color:rgba(73, 251, 53, 0.6);  max-height:100%; max-width:60%;
+    margin-left:30%;margin-right:30%;
+
+}
+h3{
+    margin-left:auto;margin-right:auto;
+    
+}
+h4{
+    font-family: bungee,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    background-color: rgba(188, 19, 254, 0.5);
+    max-width:900px;margin-left:auto;margin-right:auto;
+    
+}
+
+h5{
+    font-family: bungee,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    background-color: rgba(188, 19, 254, 0.5);
+    max-width:700px;margin-left:auto;margin-right:auto;
+    
+}
+
+ul{
+    font-family: bungee, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    background-color: rgba(140, 134, 143, 0.9);
+    max-height:100%;max-width:80%px;margin-right:20%;margin-left:20%;
+}
